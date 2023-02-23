@@ -1,0 +1,15 @@
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\bin\Debug\net6.0\Example001_Dog.exe
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\bin\Debug\net6.0\Example001_Dog.deps.json
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\bin\Debug\net6.0\Example001_Dog.runtimeconfig.json
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\bin\Debug\net6.0\Example001_Dog.dll
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\bin\Debug\net6.0\Example001_Dog.pdb
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\obj\Debug\net6.0\Example001_Dog.csproj.AssemblyReference.cache
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\obj\Debug\net6.0\Example001_Dog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\obj\Debug\net6.0\Example001_Dog.AssemblyInfoInputs.cache
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\obj\Debug\net6.0\Example001_Dog.AssemblyInfo.cs
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\obj\Debug\net6.0\Example001_Dog.csproj.CoreCompileInputs.cache
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\obj\Debug\net6.0\Example001_Dog.dll
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\obj\Debug\net6.0\refint\Example001_Dog.dll
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\obj\Debug\net6.0\Example001_Dog.pdb
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\obj\Debug\net6.0\Example001_Dog.genruntimeconfig.cache
+D:\Учеба\3 Знакомство с языками программирования\Лекция 1\Example001_Dog\obj\Debug\net6.0\ref\Example001_Dog.dll
